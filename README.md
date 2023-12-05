@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Azzahraeka
-- 👀 I’m interested in Networking, Data Analyst
+- 👀 I’m interested in Networking, Transmission Problem Analytical, Data Analyst
 - 🌱 I’m currently learning DatA Analyst
 - 💞️ I’m looking to collaborate on Data Analyst
 - 📫 How to reach me https://www.linkedin.com/in/azzahra-eka-putri-729728128/details/experience/
